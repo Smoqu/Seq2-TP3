@@ -7,5 +7,3 @@ def sign(string):
         return "-"
     else:
         return "It has to be binary"
-
-print(sign("11000001001000100000000000000000"))

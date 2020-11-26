@@ -4,5 +4,3 @@ def mantisse(string):
     else:
         man = string[9:32]
         return man
-
-print(mantisse('11000001001000100000000000000000'))
